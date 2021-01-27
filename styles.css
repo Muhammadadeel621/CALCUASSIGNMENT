@@ -1,0 +1,29 @@
+form{
+    background-color: magenta;
+    text-align: center;
+}
+
+#answerstyle{
+    width: 160px;
+}
+
+#clear{
+    width: 160px;
+}
+
+#formstyle{
+    height: 217px;
+    width: 500px;
+    margin: auto;
+    border-color: 2px solid ;
+}
+
+input{
+    width: 50px;
+    color: white;
+    background-color: limegreen;
+    border-radius: 20px;
+    border-color: mediumblue;
+    margin: 10px;
+}
+   
